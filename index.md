@@ -94,12 +94,11 @@ services.
 * ![Small Business Majority](images/logos/sbm.svg)
 {: #anchor-businesses }
 
-Plus over 150 more.
+<div id="businesses-list">
 
 * Business
 * Business
 * Business
-* Business 
 * Business
 * Business
 * Business
@@ -110,8 +109,69 @@ Plus over 150 more.
 * Business
 * Business
 * Business
-{: #businesses-list }
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
+* Business
 
+<div id="more">
+See over 150 more
+</div>
+
+</div>
 </div>
 
 ---

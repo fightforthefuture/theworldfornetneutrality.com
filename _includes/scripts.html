@@ -1,1 +1,12 @@
 <!-- nothing here -->
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+	(function($) {
+		$("#more").click(function(evt) {
+			$("#more").fadeOut();
+			$("#businesses-list").css({
+				"max-height": "9000px"
+			});
+		});
+	}(jQuery));
+</script>

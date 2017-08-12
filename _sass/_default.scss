@@ -132,9 +132,38 @@ img {
 		vertical-align: middle;
 	}
 }
-#businesses-list li {
-	display: inline-block;
-	width: 195px;
+
+#businesses-list {
+	position: relative;
+	margin: 40px auto 0;
+	max-height: 80px;
+	overflow: hidden;
+	max-width: 900px;
+	transition: max-height 0.5s ease-in;
+	li {
+		display: inline-block;
+		width: 195px;
+	}
+	#more {
+		position: absolute;
+		bottom: 0px;
+		height: 100px;
+		width: 100%;
+		background-image: url(images/background-fade.png);
+		background-repeat: repeat-x;
+		p {
+			color: #ad9fc6;
+			text-decoration: underline;
+			cursor: pointer;
+			text-align: center;
+			position: absolute;
+			bottom: 0px;
+			width: 100%;
+			&:hover {
+				color: white;
+			}
+		}
+	}
 }
 
 .footer {
