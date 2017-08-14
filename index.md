@@ -18,71 +18,6 @@ layout: default
 
 ---
 
-<div class="section letter">
-
-## The Letter
-{: #letter }
-
-> Dear FCC Chairman Ajit Pai and Members of Congress,
->  
-> We are a group of small and medium sized businesses empowered by unencumbered
-access to an open Internet.  We are deeply concerned with the Federal
-Communications Commission’s proposal to roll back its existing strong net
-neutrality rules based on Title II of the Communications Act. We urge you to
-maintain the existing rules instead.
->  
-> Today, broadband is vital to American enterprise; connectivity is absolutely
-essential to businesses. We also depend on a strong competitive framework and
-legal foundation to ensure that Internet service providers (ISPs) cannot
-discriminate against websites, services, and apps, or impose new fees that harm
-small businesses.
->  
-> The open Internet has made it possible for us to rely on a free market where
-each of us has the chance to bring our best business ideas to the world without
-interference or seeking permission from any gatekeeper first. This is possible
-because the principle of net neutrality ensures that everyone has unimpeded
-access to the Internet.
-> 
-> The Commission’s long-standing commitment and actions undertaken to protect the
-open Internet are a central reason why the Internet remains an engine of
-entrepreneurship and economic growth. We are deeply concerned that the proposed
-regulatory changes to net neutrality will undermine free markets and
-competition on the Internet. Despite assurances to the contrary, the changes
-proposed by the FCC would remove the only existing legal foundation strong
-enough to ensure net neutrality protections are enforceable: Title II of the
-Communications Act, as codified in the agency’s 2015 Open Internet Order.
-> 
-> While only a small handful of companies sell Internet access, nearly every
-company in the country buys it – including ours. Weakening or rolling back the
-2015 protections would be disastrous for the country’s business community.
-> 
-> Internet providers would gain new powers to steer businesses and customers one
-way or another. For example, our customers’ Internet access providers could
-charge us new fees for the right to get to our customers, or for prioritized
-access to our customers. While big companies might be able to afford a
-pay-to-play prioritized ‘fast lane’ to users, small and medium sized
-enterprises like ours cannot; at the very least, such new fees would put us at
-a distinct disadvantage with larger competitors. Internet access providers
-could also charge our customers new fees for access to our websites and
-services. And they could favor our competitors by slowing down our traffic or
-exempting our competitors’ traffic from users’ data caps, or they could block
-websites and apps outright. This would create immense uncertainty for companies
-in every sector of the economy who rely on open, unencumbered connectivity as a
-key enabler for their business and productivity.
-> 
-> While countries around the world embrace strong, common sense net neutrality
-protections, American businesses could be left behind. We urge you to maintain
-strong net neutrality rules and focus on policies that lower the barriers to
-the deployment of new networks, encouraging more competition in Internet access
-services.
-> 
-> Thank you for considering our views.
-{: class="letter-content" }
-
-</div>
-
----
-
 <div class="section businesses">
 
 ## Businesses
@@ -172,6 +107,71 @@ See over 150 more
 </div>
 
 </div>
+</div>
+
+---
+
+<div class="section letter">
+
+## The Letter
+{: #letter }
+
+> Dear FCC Chairman Ajit Pai and Members of Congress,
+>  
+> We are a group of small and medium sized businesses empowered by unencumbered
+access to an open Internet.  We are deeply concerned with the Federal
+Communications Commission’s proposal to roll back its existing strong net
+neutrality rules based on Title II of the Communications Act. We urge you to
+maintain the existing rules instead.
+>  
+> Today, broadband is vital to American enterprise; connectivity is absolutely
+essential to businesses. We also depend on a strong competitive framework and
+legal foundation to ensure that Internet service providers (ISPs) cannot
+discriminate against websites, services, and apps, or impose new fees that harm
+small businesses.
+>  
+> The open Internet has made it possible for us to rely on a free market where
+each of us has the chance to bring our best business ideas to the world without
+interference or seeking permission from any gatekeeper first. This is possible
+because the principle of net neutrality ensures that everyone has unimpeded
+access to the Internet.
+> 
+> The Commission’s long-standing commitment and actions undertaken to protect the
+open Internet are a central reason why the Internet remains an engine of
+entrepreneurship and economic growth. We are deeply concerned that the proposed
+regulatory changes to net neutrality will undermine free markets and
+competition on the Internet. Despite assurances to the contrary, the changes
+proposed by the FCC would remove the only existing legal foundation strong
+enough to ensure net neutrality protections are enforceable: Title II of the
+Communications Act, as codified in the agency’s 2015 Open Internet Order.
+> 
+> While only a small handful of companies sell Internet access, nearly every
+company in the country buys it – including ours. Weakening or rolling back the
+2015 protections would be disastrous for the country’s business community.
+> 
+> Internet providers would gain new powers to steer businesses and customers one
+way or another. For example, our customers’ Internet access providers could
+charge us new fees for the right to get to our customers, or for prioritized
+access to our customers. While big companies might be able to afford a
+pay-to-play prioritized ‘fast lane’ to users, small and medium sized
+enterprises like ours cannot; at the very least, such new fees would put us at
+a distinct disadvantage with larger competitors. Internet access providers
+could also charge our customers new fees for access to our websites and
+services. And they could favor our competitors by slowing down our traffic or
+exempting our competitors’ traffic from users’ data caps, or they could block
+websites and apps outright. This would create immense uncertainty for companies
+in every sector of the economy who rely on open, unencumbered connectivity as a
+key enabler for their business and productivity.
+> 
+> While countries around the world embrace strong, common sense net neutrality
+protections, American businesses could be left behind. We urge you to maintain
+strong net neutrality rules and focus on policies that lower the barriers to
+the deployment of new networks, encouraging more competition in Internet access
+services.
+> 
+> Thank you for considering our views.
+{: class="letter-content" }
+
 </div>
 
 ---
