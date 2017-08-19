@@ -10,9 +10,9 @@ layout: default
 # We are deeply concerned with the FCC's proposal to roll back its existing strong net neutrality rules.
 
 * [Businesses](#businesses)
-* [Sign On](https://docs.google.com/forms/d/e/1FAIpQLSdaQFcoBkS70pPoyAfu7I3BYDHoq8YrGLP54lWf74mTH2ABuA/viewform)
+* [Sign On](#signon)
 
-[_Read the letter_](#letter)
+<a href="#letter" class="button">Read the letter</a>
 
 </div>
 
@@ -116,6 +116,50 @@ See over 150 more
 ## The Letter
 {: #letter }
 
+### Sign On Here
+{: #signon}
+
+{::options parse_block_html="false" /} 
+<form method="POST" action="https://docs.google.com/forms/u/3/d/e/1FAIpQLSdaQFcoBkS70pPoyAfu7I3BYDHoq8YrGLP54lWf74mTH2ABuA/formResponse" target="_blank">
+	<div>
+		<label for="entry.355084818">Your Name <span>*</span></label>
+		<input autocomplete="off" name="entry.355084818" value="" required="required" type="text">
+	</div>
+
+	<div>
+		<label for="entry.242119719">Company/Organization <span>*</span></label>
+		<input autocomplete="off" name="entry.242129719" value="" required="required" type="text">
+	</div>
+
+	<div>
+		<label for="entry.1512208992">Email Address <span>*</span></label>
+		<input autocomplete="off" name="entry.1512208992" value="" required="required" type="text">
+	</div>
+
+	<div>
+		<label for="entry.1955223351">US State <span>*</span></label>
+		<p>This information is helpful in the formal submission to the FCC</p>
+		<input autocomplete="off" name="entry.1955223351" value="" required="required" type="text">
+	</div>
+
+	<div>
+		<label for="entry.2118169215">Number</label>
+		<p>This information is optional, but will allow us to get in contact if there are any campaign developments we think you should be aware of.</p>
+		<input autocomplete="off" name="entry.2118169215" value="" type="text">
+	</div>
+
+	<input name="fvv" value="1" type="hidden">
+	<input name="draftResponse" value="[null,null,&quot;7835709857214753003&quot;]" type="hidden">
+	<input name="pageHistory" value="0" type="hidden">
+	<input name="fbzx" value="7835709857214753003" type="hidden">
+
+	<button class="button">Submit</button>
+</form>
+{::options parse_block_html="true" /} 
+
+<div class="letter-content">
+
+
 > Dear FCC Chairman Ajit Pai and Members of Congress,
 >  
 > We are a group of small and medium sized businesses empowered by unencumbered
@@ -170,7 +214,6 @@ the deployment of new networks, encouraging more competition in Internet access
 services.
 > 
 > Thank you for considering our views.
-{: class="letter-content" }
 
 </div>
 

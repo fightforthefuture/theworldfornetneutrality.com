@@ -52,11 +52,17 @@ img {
 .section {
 	padding-bottom: 60px;
 }
-
 .intro {
 	padding-top: 15px;
 	border-top: 5px solid #582ca9;
 	background: url(images/background2.png) center top no-repeat;
+	.button {
+		margin: 50px auto 0;
+		height: 65px;
+		line-height: 65px;
+		max-width: 450px;
+		font-size: 20px;
+	}
 
 	ul {
 		li {
@@ -80,24 +86,20 @@ img {
 			}
 		}
 	}
-
-	a em {
-		display: inline-block;
-		margin-top: 50px;
-		height: 65px;
-		line-height: 65px;
-		font-size: 20px;
-		width: 100%;
-		max-width: 450px;
-		background: #7a32ff;
-		color: white;
-		text-transform: uppercase;
-		font-weight: 600;
-		border-radius: 10px;
-
-		&:hover {
-			background: #6a22ef;
-		}
+}
+.button {
+	display: block;
+	font-size: 20px;
+	width: 100%;
+	background: #7a32ff;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 600;
+	border-radius: 10px;
+	border: none;
+	text-decoration: none;
+	&:hover {
+		background: #6a22ef;
 	}
 }
 
@@ -186,7 +188,7 @@ hr {
 }
 
 .letter-content {
-	margin: 30px auto 0px auto;
+	margin: 30px auto;
 	max-width: 850px;
 	text-align: left;
 	color: white;
@@ -224,3 +226,37 @@ hr {
 	}
 }
 
+form {
+	text-align: left;
+	div {
+		max-width: 400px;
+		margin: 0px auto 10px;
+	}
+	label {
+		text-align: left;
+		display: block;
+		margin-bottom: 3px;
+	}
+	p {
+		color: #ddd;
+		font-size: 12px;
+		margin-bottom: 7px;
+	}
+	input {
+		width: 100%;
+		display: block;
+		padding: 5px;
+		border-radius: 3px;
+		border: none;
+		height: 40px;
+		line-height: 40px;
+		font-size: 16px;
+	}
+	.button {
+		font-size: 16px;
+		margin: 20px auto 0;
+		height: 40px;
+		line-height: 40px;
+		max-width: 400px;
+	}
+}
