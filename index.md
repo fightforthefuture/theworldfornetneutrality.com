@@ -219,7 +219,7 @@ services.
 
 ---
 
-<div class="section coverage">
+<div class="section coverage hide">
 
 ## Press Coverage
 
