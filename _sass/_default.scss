@@ -36,7 +36,7 @@ strong {
 }
 
 a {
-	color: #ad9fc6;
+	color: #5ea2fd;
 	&:hover {
 		color: white;
 	}
@@ -47,6 +47,19 @@ img {
 	max-width: 200px;
 	width: auto;
 	height: auto;
+}
+
+dl:first-child {
+	border-top: 5px solid #7c8388;
+	dt {
+		line-height: 55px;
+	}
+	a em {
+		background-color: #329cff;
+	}
+	a:hover em {
+		background-color: #0064c3;
+	}
 }
 
 .section {
