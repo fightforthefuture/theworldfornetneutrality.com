@@ -18,7 +18,7 @@ layout: default
 
 ---
 
-<div class="section businesses">
+<div class="section businesses hide">
 
 ## Businesses
 {: #businesses }
