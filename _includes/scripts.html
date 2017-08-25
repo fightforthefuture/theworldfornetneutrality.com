@@ -20,7 +20,7 @@
 			$form.on("submit", function(evt) {
 				evt.preventDefault();
 				var args = $form.serialize();
-				$form.slideUp();
+				$form.fadeOut();
 				$loader.show();
 				$message.hide();
 				$.ajax({

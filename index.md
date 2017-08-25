@@ -120,7 +120,10 @@ See over 150 more
 
 {::options parse_block_html="false" /}
 <div id="petition-form">
-<p class="loader" style="display: none;"><img src="/images/loader.gif" /></p>
+<p class="loader" style="display: none;">
+	Submitting form...<br />
+	<img src="/images/loader.gif" />
+</p>
 <form method="post" action="https://queue.fightforthefuture.org/action" accept-charset="UTF-8">
 	<div class="message" style="display: none;"></div>
 	<div>

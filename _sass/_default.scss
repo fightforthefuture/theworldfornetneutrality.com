@@ -283,13 +283,18 @@ form {
 	}
 }
 #petition-form {
+	min-height: 510px;
+	position: relative;
 	.message {
 		text-align: center;
 		font-weight: bold;
 		color: #e00;
 	}
 	.loader {
-		margin: 5em;
+		position: absolute;
+		width: 100%;
+		text-align: center;
+		top: 200px;
 	}
 }
 .hide {
