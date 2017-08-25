@@ -12,7 +12,7 @@ layout: default
 * [Businesses](#businesses)
 * [Sign On](#signon)
 
-<a href="#letter" class="button">Read the letter</a>
+<a href="#letter" class="button">Sign the letter</a>
 
 </div>
 
@@ -116,46 +116,55 @@ See over 150 more
 ## The Letter
 {: #letter }
 
-### Sign On Here
 {: #signon}
 
-{::options parse_block_html="false" /} 
-<form method="POST" action="https://docs.google.com/forms/u/3/d/e/1FAIpQLSdaQFcoBkS70pPoyAfu7I3BYDHoq8YrGLP54lWf74mTH2ABuA/formResponse" target="_blank">
+{::options parse_block_html="false" /}
+<div id="petition-form">
+<p class="loader" style="display: none;"><img src="/images/loader.gif" /></p>
+<form method="post" action="https://queue.fightforthefuture.org/action" accept-charset="UTF-8">
+	<div class="message" style="display: none;"></div>
 	<div>
-		<label for="entry.355084818">Your Name <span>*</span></label>
-		<input autocomplete="off" name="entry.355084818" value="" required="required" type="text">
+		<label for="member[first_name]">Name <span>*</span></label>
+		<input id='full_name' type="text" name="member[first_name]" placeholder="Name" title="Full Name" autocomplete="name" required>
 	</div>
-
 	<div>
-		<label for="entry.242119719">Company/Organization <span>*</span></label>
-		<input autocomplete="off" name="entry.242129719" value="" required="required" type="text">
+		<label for="member[company]">Company Name<span>*</span></label>
+		<input id='company' type="text" name="member[company]" placeholder="Company Name" title="Company name" required>
 	</div>
-
 	<div>
-		<label for="entry.1512208992">Email Address <span>*</span></label>
-		<input autocomplete="off" name="entry.1512208992" value="" required="required" type="text">
+		<label for="member[email]">Email <span>*</span></label>
+		<input id='email' type="email" name="member[email]" placeholder="Email" title="Email" required>
 	</div>
-
 	<div>
-		<label for="entry.1955223351">US State <span>*</span></label>
-		<p>This information is helpful in the formal submission to the FCC</p>
-		<input autocomplete="off" name="entry.1955223351" value="" required="required" type="text">
+		<label for="member[postcode]">Zip Code <span>*</span></label>
+		<p>This information is helpful in the formal submission to the FCC.</p>
+		<input id="postcode" type="text" name="member[postcode]" placeholder="Zip Code" title="Postcode" required>
 	</div>
-
 	<div>
-		<label for="entry.2118169215">Number</label>
+		<label for="phone_number">Phone Number</label>
 		<p>This information is optional, but will allow us to get in contact if there are any campaign developments we think you should be aware of.</p>
-		<input autocomplete="off" name="entry.2118169215" value="" type="text">
+		<input id="phone" type="tel" name="member[phone_number]" placeholder="Phone #" title="Phone">
 	</div>
 
-	<input name="fvv" value="1" type="hidden">
-	<input name="draftResponse" value="[null,null,&quot;7835709857214753003&quot;]" type="hidden">
-	<input name="pageHistory" value="0" type="hidden">
-	<input name="fbzx" value="7835709857214753003" type="hidden">
+	<div>
+		<button class="button">Sign On</button>
+	</div>
 
-	<button class="button">Submit</button>
+	<input type="hidden" name="subject" value="Protect Net Neutrality!"/>
+
+	<!-- Mothership Honeypot Bot Defense -->
+	<input class="hide" type="checkbox" checked="checked" name="hp_enabled" />
+	<input class="hide" type="checkbox" name="hp_disabled" />
+	<input class="hide" type="text" name="guard" value="" />
+
+	<!-- Action Network -->
+	<input type="hidden" name="an_tags" value="[&quot;net-neutrality&quot;]"/>
+	<input type="hidden" name="an_petition_id" value="d21e1b6f-cdc8-49b2-bdf0-fb96b7a39879"/>
+	<input id="source" type="hidden" name="subscription[source]" value=""/>
 </form>
-{::options parse_block_html="true" /} 
+</div>
+{::options parse_block_html="true" /}
+
 
 <div class="letter-content">
 

@@ -65,7 +65,7 @@ dl:first-child {
 .section {
 	padding-bottom: 60px;
 }
-.intro {
+.intro, .thanks {
 	padding-top: 15px;
 	border-top: 5px solid #582ca9;
 	background: url(images/background2.png) center top no-repeat;
@@ -100,11 +100,17 @@ dl:first-child {
 		}
 	}
 }
+.thanks {
+	h1 {
+		padding-bottom: 0px;
+	}
+	padding-bottom: 0px;
+}
 .button {
 	display: block;
 	font-size: 20px;
 	width: 100%;
-	background: #7a32ff;
+	background-color: #5ea2fd;
 	color: white;
 	text-transform: uppercase;
 	font-weight: 600;
@@ -211,6 +217,9 @@ hr {
 	padding: 50px;
 	p {
 		margin-bottom: 25px;
+		em {
+			font-weight: bold;
+		}
 	}
 }
 
@@ -271,6 +280,16 @@ form {
 		height: 40px;
 		line-height: 40px;
 		max-width: 400px;
+	}
+}
+#petition-form {
+	.message {
+		text-align: center;
+		font-weight: bold;
+		color: #e00;
+	}
+	.loader {
+		margin: 5em;
 	}
 }
 .hide {
