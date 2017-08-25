@@ -11,6 +11,7 @@ layout: default
 
 * [Businesses](#businesses)
 * [Sign On](#signon)
+{: class="hide" }
 
 <a href="#letter" class="button">Sign the letter</a>
 
