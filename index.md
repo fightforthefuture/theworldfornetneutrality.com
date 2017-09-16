@@ -140,9 +140,8 @@ See over 150 more
 		<input id='email' type="email" name="member[email]" placeholder="Email" title="Email" required>
 	</div>
 	<div>
-		<label for="member[postcode]">Zip Code <span>*</span></label>
-		<p>This information is helpful in the formal submission to the FCC.</p>
-		<input id="postcode" type="text" name="member[postcode]" placeholder="Zip Code" title="Postcode" required>
+		<label for="member[country]">Country <span>*</span></label>
+		<input id="country" type="text" name="member[country]" placeholder="Country" title="Country" required>
 	</div>
 	<div>
 		<label for="phone_number">Phone Number</label>
