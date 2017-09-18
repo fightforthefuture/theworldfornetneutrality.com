@@ -172,8 +172,8 @@ See over 150 more
 <div class="letter-content">
 
 
->Dear FCC Chairman Ajit Pai and Members of Congress,
->We are companies and organisations headquartered outside the United States of America, and we are concerned about how the rollback of US Title II net neutrality rules could negatively impact the world’s shared Internet ecosystem.
+<p>Dear FCC Chairman Ajit Pai and Members of Congress,</p>
+<p>We are companies and organisations headquartered outside the United States of America, and we are concerned about how the rollback of US Title II net neutrality rules could negatively impact the world’s shared Internet ecosystem.</p>
 >The Internet has been such a social and economic success because permission less any-to-any communication is at its core. Net neutrality allows online business or any societal movement equal access to a global audience – undermining this principle is tantamount to social and economic self-harm.
 >Access to the entire Internet is not only vital to American business and society, it is essential to businesses and people outside the United States. We also depend on a strong competitive framework and legal foundation to ensure that Internet service providers (ISPs) cannot create barriers to commerce and free speech by discriminating against websites, services, and apps, or by imposing new fees that harm businesses and consumers.
 >The open Internet makes it possible for all of us to bring our best business ideas to the world without interference or seeking permission from any gatekeeper first. This is possible because the principle of net neutrality ensures that everyone, no matter where they are located, has unimpeded access to Internet opportunities.
