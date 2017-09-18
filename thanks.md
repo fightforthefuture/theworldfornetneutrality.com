@@ -25,6 +25,6 @@ layout: default
 > 
 > If we can show the FCC and Congress that repealing Title II net neutrality will be devastating for the global Internet, we can stop them in their tracks.
 >
-> Thanks
+> Thanks!
 
 </div>
