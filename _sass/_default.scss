@@ -65,6 +65,9 @@ dl:first-child {
 .section {
 	padding-bottom: 60px;
 }
+.letter {
+	margin-top: 40px;
+}
 .intro, .thanks {
 	padding-top: 15px;
 	border-top: 5px solid #582ca9;
@@ -273,6 +276,7 @@ form {
 		height: 40px;
 		line-height: 40px;
 		font-size: 16px;
+		margin-bottom: 15px;
 	}
 	.button {
 		font-size: 16px;
@@ -283,7 +287,7 @@ form {
 	}
 }
 #petition-form {
-	min-height: 510px;
+	min-height: 420px;
 	position: relative;
 	.message {
 		text-align: center;
