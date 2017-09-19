@@ -138,7 +138,7 @@ See over 150 more
 	</div>
 	<div>
 		<select class="required" id="country" name="member[country]">
-			<option value="">Country *</option>
+			<option value="" selected="selected">Country *</option>
 			<option value="AF">Afghanistan</option>
 			<option value="AX">Aland Islands</option>
 			<option value="AL">Albania</option>
@@ -374,7 +374,7 @@ See over 150 more
 			<option value="UA">Ukraine</option>
 			<option value="AE">United Arab Emirates</option>
 			<option value="GB">United Kingdom</option>
-			<option value="US" selected="selected">United States</option>
+			<option value="US">United States</option>
 			<option value="UM">United States Minor Outlying Islands</option>
 			<option value="UY">Uruguay</option>
 			<option value="UZ">Uzbekistan</option>
