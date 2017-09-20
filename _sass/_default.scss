@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: white;
 	text-align: center;
 	font-weight: 300;
-	line-height: 62px;
+	line-height: 1.2em;
 }
 
 h1 {
@@ -306,4 +306,29 @@ form {
 }
 .hide {
 	display: none;
+}
+
+@media screen and (max-width: $large-tablet) {
+	h1 {
+		font-size: 40px;
+		padding: 30px 10px;
+	}
+	h2 {
+		font-size: 30px;
+	}
+	.letter-content {
+		padding: 20px;
+		font-size: 14px;
+	}
+}
+@media screen and (max-width: $small-phone) {
+	h1 {
+		font-size: 16px;
+	}
+	h2 {
+		font-size: 14px;
+	}
+	.letter-content {
+		font-size: 13px;
+	}
 }
