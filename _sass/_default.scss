@@ -6,8 +6,9 @@ body {
 	font-size: 16px;
 	font-family: $body-font;
 	position: relative;
-	background: $darkBlue url(images/background.jpg) center top repeat-x;
+	background-image: url(images/background.jpg) center top repeat-x;
 	background-attachment: fixed;
+	background-color: #101010;
 	text-align: center;
 	color: white;
 }
@@ -19,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: white;
 	text-align: center;
 	font-weight: 300;
+	line-height: 62px;
 }
 
 h1 {
@@ -70,8 +72,8 @@ dl:first-child {
 }
 .intro, .thanks {
 	padding-top: 15px;
-	border-top: 5px solid #582ca9;
-	background: url(images/background2.png) center top no-repeat;
+	border-top: 5px solid #e00;
+	background: url(images/background.png) center top no-repeat;
 	.button {
 		margin: 50px auto 0;
 		height: 65px;
@@ -113,15 +115,15 @@ dl:first-child {
 	display: block;
 	font-size: 20px;
 	width: 100%;
-	background-color: #5ea2fd;
+	background-color: #ff5a5a;
 	color: white;
 	text-transform: uppercase;
 	font-weight: 600;
-	border-radius: 10px;
+	border-radius: 5px;
 	border: none;
 	text-decoration: none;
 	&:hover {
-		background: #6a22ef;
+		background-color: #e23030;
 	}
 }
 
@@ -210,12 +212,12 @@ hr {
 }
 
 .letter-content {
-	margin: 30px auto;
+	margin: 100px auto;
 	max-width: 850px;
 	text-align: left;
 	color: white;
-	background: #383842;
-	border-top: 6px solid #595966;
+	background: #1b1b1b;
+	border-top: 6px solid #2b2b2b;
 	border-radius: 10px;
 	padding: 50px;
 	p {
@@ -270,18 +272,18 @@ form {
 	input, select {
 		width: 100%;
 		display: block;
-		padding: 5px;
+		padding: 5px 15px;
 		border-radius: 3px;
 		border: none;
-		height: 40px;
+		height: 52px;
 		line-height: 40px;
 		font-size: 16px;
 		margin-bottom: 15px;
 	}
 	.button {
-		font-size: 16px;
+		font-size: 22px;
 		margin: 20px auto 0;
-		height: 40px;
+		height: 63px;
 		line-height: 40px;
 		max-width: 400px;
 	}
