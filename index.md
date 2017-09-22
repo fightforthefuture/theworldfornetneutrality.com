@@ -398,6 +398,10 @@ See over 150 more
 	<div>
 		<button class="button">Sign On</button>
 	</div>
+	
+	    <div class="disclaimer">
+      <p>Fight for the Future will contact you about future campaigns. <a href="https://www.fightforthefuture.org/privacy/">Privacy Policy</a></p>
+    </div>
 
 	<input type="hidden" name="subject" value="Protect Net Neutrality!"/>
 
