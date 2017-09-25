@@ -555,9 +555,9 @@ See over 100 more
 </div>
 {::options parse_block_html="true" /}
 
-# Read the Letter
+## Read the Letter
 {: #letter }
-<strong>Download the PDF</strong>
+[Download the PDF]()
 
 <div class="letter-content">
 
