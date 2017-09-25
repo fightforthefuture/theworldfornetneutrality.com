@@ -484,9 +484,9 @@ See over 100 more
 </div>
 {::options parse_block_html="true" /}
 
-## Read the Letter
+# Read the Letter
 {: #letter }
-<div class="letter-content">
+<strong>Download the PDF</strong>
 
 <p>The Honorable Ajit Pai<br>
 Chairman<br>
