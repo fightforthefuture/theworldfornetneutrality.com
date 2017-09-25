@@ -24,18 +24,18 @@ layout: default
 ## Businesses & Organizations
 {: #businesses }
 
-* <a href="https://www.startpage.com/">![StartPage.com](images/logos/startpage.png)</a>
-* <a href="https://www.accessnow.org/">![AccessNow](images/logos/accessnow2.png)</a>
-* <a href="https://www.article19.org/">![Article19](images/logos/article19.jpg)</a>
-* <a href="https://www.bof.nl/">![BitsOfFreedom](images/logos/bitsoffreedom.png)</a>
-* <a href="https://edri.org/">![EDRi](images/logos/edri2.png)</a>
-* <a href="http://www.iristel.com/">![Iristel](/images/logos/iristel.png)</a>
-* <a href="https://openmedia.org/">![OpenMedia](images/logos/openmedia.jpg)</a>
-* <a href="https://www.privacytools.io/">![PrivacyTools.IO](images/logos/privacytools.gif)</a>
-* <a href="https://www.startmail.com/en/">![StartMail](images/logos/startmail.png)</a>
-* <a href="http://www.startupsfornetneutrality.eu/">![StartupsForNetNeutrality](images/logos/startupsfornn.png)</a>
-* <a href="https://thenextweb.com/">![The Next Web](images/logos/tnw2.png)</a>
-* <a href="https://xnet-x.net/en/">![XNET](images/logos/Xnet.png)</a>
+* <a target ="_blank" href="https://www.startpage.com/">![StartPage.com](images/logos/startpage.png)</a>
+* <a target ="_blank" href="https://www.accessnow.org/">![AccessNow](images/logos/accessnow2.png)</a>
+* <a target ="_blank" href="https://www.article19.org/">![Article19](images/logos/article19.jpg)</a>
+* <a target ="_blank" href="https://www.bof.nl/">![BitsOfFreedom](images/logos/bitsoffreedom.png)</a>
+* <a target ="_blank" href="https://edri.org/">![EDRi](images/logos/edri2.png)</a>
+* <a target ="_blank" href="http://www.iristel.com/">![Iristel](/images/logos/iristel.png)</a>
+* <a target ="_blank" href="https://openmedia.org/">![OpenMedia](images/logos/openmedia.jpg)</a>
+* <a target ="_blank" href="https://www.privacytools.io/">![PrivacyTools.IO](images/logos/privacytools.gif)</a>
+* <a target ="_blank" href="https://www.startmail.com/en/">![StartMail](images/logos/startmail.png)</a>
+* <a target ="_blank" href="http://www.startupsfornetneutrality.eu/">![StartupsForNetNeutrality](images/logos/startupsfornn.png)</a>
+* <a target ="_blank" href="https://thenextweb.com/">![The Next Web](images/logos/tnw2.png)</a>
+* <a target ="_blank" href="https://xnet-x.net/en/">![XNET](images/logos/Xnet.png)</a>
 {: #anchor-businesses }
 
 <div id="businesses-list">
