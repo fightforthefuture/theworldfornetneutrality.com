@@ -488,6 +488,8 @@ See over 100 more
 {: #letter }
 <strong>Download the PDF</strong>
 
+<div class="letter-content">
+
 <p>The Honorable Ajit Pai<br>
 Chairman<br>
 Federal Communications Commission<br>
