@@ -24,7 +24,7 @@ layout: default
 ## Businesses & Organizations
 {: #businesses }
 
-* ![StartPage](images/logos/startpage.png)
+* ![StartPage.com](images/logos/startpage.png)
 * ![AccessNow](images/logos/accessnow2.png)
 * ![EDRi](images/logos/edri2.png)
 * ![StartupsForNetNeutrality](images/logos/startupsfornn.png)
@@ -555,9 +555,9 @@ See over 100 more
 </div>
 {::options parse_block_html="true" /}
 
-# Read the Letter
+## Read the Letter
 {: #letter }
-<strong>Download the PDF</strong>
+[Download the PDF]()
 
 <div class="letter-content">
 
