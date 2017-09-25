@@ -13,7 +13,7 @@ layout: default
 * [Sign On](#signon)
 {: class="hide" }
 
-<a href="#letter" class="button">Sign the letter</a>
+<a href="#letter" class="button">Read the letter</a>
 
 </div>
 
