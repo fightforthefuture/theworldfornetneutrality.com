@@ -35,7 +35,7 @@ layout: default
 * ![StartMail](images/logos/startmail.png)
 * ![StartupsForNetNeutrality](images/logos/startupsfornn.png)
 * ![The Next Web](images/logos/TNW.jpg)
-* ![XNET](images/logos/xnet.png)
+* ![XNET](images/logos/Xnet.png)
 {: #anchor-businesses }
 
 <div id="businesses-list">
