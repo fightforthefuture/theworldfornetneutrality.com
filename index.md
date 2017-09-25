@@ -24,7 +24,7 @@ layout: default
 ## Businesses & Organizations
 {: #businesses }
 
-* !<a href="https://www.startpage.com/">[StartPage.com](images/logos/startpage.png)</a>
+* ![StartPage.com]<a href="https://www.startpage.com/">(images/logos/startpage.png)</a>
 * ![AccessNow](images/logos/accessnow2.png)
 * ![Article19](images/logos/article19.jpg)
 * ![BitsOfFreedom](images/logos/bitsoffreedom.png)
