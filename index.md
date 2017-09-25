@@ -26,8 +26,16 @@ layout: default
 
 * ![StartPage.com](images/logos/startpage.png)
 * ![AccessNow](images/logos/accessnow2.png)
+* ![Article19](images/logos/article19.jpg)
+* ![BitsOfFreedom](images/logos/bitsoffreedom.png)
 * ![EDRi](images/logos/edri2.png)
+* ![Iristel](/images/logos/iristel.png)
+* ![OpenMedia](images/logos/openmedia.jpg)
+* ![PrivacyTools.IO](images/logos/privacytools.gif)
+* ![StartMail](images/logos/startmail.png)
 * ![StartupsForNetNeutrality](images/logos/startupsfornn.png)
+* ![The Next Web](images/logos/TNW.jpg)
+* ![XNET](images/logos/xnet.png)
 {: #anchor-businesses }
 
 <div id="businesses-list">
