@@ -7,7 +7,7 @@ layout: default
 
 <div class="section intro">
 
-# Our 200+ global organizations and companies are concerned that the FCC’s rollback of Title II net neutrality could negatively impact the world’s shared Internet ecosystem. 
+# Our 200+ global organizations and companies are concerned that the FCC’s net neutrality repeal could negatively impact the world’s shared Internet ecosystem. 
 
 * [Businesses](#businesses)
 * [Sign On](#signon)
