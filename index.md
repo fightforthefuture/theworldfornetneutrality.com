@@ -243,7 +243,7 @@ layout: default
 * Zimmer Export UG (haftungsbeschränkt)
 
 <div id="more">
-See over 100 more
+See over 200 more
 </div>
 
 </div>
@@ -557,7 +557,7 @@ See over 100 more
 
 ## Read the Letter
 {: #letter }
-[Download the PDF]()
+[Download the PDF](/international-orgs-NN-openletter.pdf)
 
 <div class="letter-content">
 
