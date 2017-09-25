@@ -486,8 +486,6 @@ See over 100 more
 
 ## Read the Letter
 {: #letter }
-
-
 <div class="letter-content">
 
 <p>The Honorable Ajit Pai<br>
