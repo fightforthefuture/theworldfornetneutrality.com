@@ -21,12 +21,12 @@ layout: default
 
 <div class="section businesses">
 
-## Businesses
+## Businesses & Organizations
 {: #businesses }
 
 * ![StartPage](images/logos/startpage.png)
-* ![AccessNow](images/logos/accessnow.jpg)
-* ![EDRi](images/logos/edri.png)
+* ![AccessNow](images/logos/accessnow2.png)
+* ![EDRi](images/logos/edri2.png)
 * ![StartupsForNetNeutrality](images/logos/startupsfornn.png)
 {: #anchor-businesses }
 
