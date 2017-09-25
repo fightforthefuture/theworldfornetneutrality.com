@@ -24,7 +24,7 @@ layout: default
 ## Businesses & Organizations
 {: #businesses }
 
-* ![StartPage](images/logos/startpage.png)
+* ![StartPage.com](images/logos/startpage.png)
 * ![AccessNow](images/logos/accessnow2.png)
 * ![EDRi](images/logos/edri2.png)
 * ![StartupsForNetNeutrality](images/logos/startupsfornn.png)
