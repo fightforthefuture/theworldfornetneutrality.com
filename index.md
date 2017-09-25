@@ -33,11 +33,10 @@ layout: default
 <div id="businesses-list">
 
 * 4Choice.com
-* AccessNow
 * ad'lead
 * Aiden
 * AIL Group
-* ajhenke
+* ajhenke.com
 * AKM
 * Albold Consulting GmbH
 * Alpen Adria University Klagenfurt
@@ -55,6 +54,7 @@ layout: default
 * Awkward
 * B&N Software GmbH
 * Bavaria Pensionsmanagement GmbH
+* bbp-consulting
 * BDP Hamburg
 * Berner Fachhochschule, E-Government-Institut
 * BestVPN.com
@@ -70,22 +70,29 @@ layout: default
 * BQD consult
 * Bradley
 * brückenärzte.de
-* Büro DIE ANTWORT GmbH
+* Büro Die Antwort GmbH
 * Cadservice
 * Carr Technologies LTD
 * Chart Synergy
 * ComputerDix - wissen statt glauben
-* crixa
+* Crelling
+* Crixa
 * Cybera
 * d-plan Stadtentwicklung GmbH
 * Daiichi Sankyo Deutschland GmbH
+* David South Consulting
 * Digitalcourage
 * Dipl. Ing.(FH) D. Friedrich Ingenieurdienstleistungen
 * diyteam Dienstleistungen
 * down-up! gGmbH
 * Druck Kern
+* Duke Entertainment
+* Durotan Ltd.
+* Dvärgbjörken ekonomisk föreningYes
+* Easyfix Electrical
 * Eberhard Engel Immobilien
 * Eilers-Jacobs Photovoltaik
+* Element Comm. V.
 * Erikcrighton.com
 * European Digital Rights (EDRi)
 * Evoi Verlag
@@ -93,83 +100,147 @@ layout: default
 * Fairness-Stiftung
 * Ferma Suisse
 * FictionIndustries BVBA
+* Freelancer
 * FSF, Linux Foundation
+* G M Watts Productions
 * Galerie Pfundt
+* Geopolitics & Empire
 * Goldschmiede Kuhlemann-von der Twer
 * Goose Management
 * grrrndzero
 * GTC Geo + Technical Consulting
+* Hans van Wijngaarden Consultancy
 * Hans-Heinrich Hain GmbH
 * Hautpraxis am Seepark
 * Herbartgymnasium
 * HiVE Vancouver Society
+* Hochschule RheinMain
+* Imycon
+* Initiative jüdische Spuren in Sulzburg
 * INN.LAW – Innovative Lawyers
 * Iristel Inc.
 * IT-Consultant
+* It-Servicecycle
+* ITS Digital Solutions GmbH
+* Ixquick.com
+* Jackdaw BV
+* Karma Kagyu Community Germany, reg.
 * Kitchy Consulting
+* Klaus-Peter Heine Immobilienverwaltung GmbH
+* Klinikum Stephansplatz, Hamburg
+* Kolpingsfamilie Arnsberg
 * Kommunikationsberatung
+* kusntverein region dahlenburg
+* KWD
+* Laatzener Immobilien Service
+* labilstabil
 * LivaNova
+* lumpaci
 * Maderner Consulting Solutions
 * Madx
 * Make IT Shine SPRL
 * Manfred Linzner
 * Mausbrand GmbH
+* MBMediaservice
 * Mensch & Computer
+* MetMarc
 * MG Productions
 * Midvinter Holzhandwerk
+* Moss Technology
 * mousesports
 * NatrelAcoustix
 * naturefund
+* Naturheilpraxis Manfred Kremer
+* Nelson-Mandela- Schule Bochum
+* Nightingale-EOS Limited
 * NoteFly
+* NWP GmbH
+* OGV Breitenbrunn
+* OMC GmbH
+* One Nine One Ltd.
+* Opaque
 * OpenMedia
-* Ordination Dr.Wiebecke
+* Ordination Dr. Wiebecke
 * Padaria Maria Olimpia (http://mariaolimpia.pt)
 * Panhuyzen Guitars
+* PArnasstheater
+* Pentre Consultancy
+* Plagge Coaching
+* pr.co
+* Praxis für seelische Gesundheit
 * privacytools.io
 * Project Privacy
-* PSYCHEXODUS
+* Psychexodus
+* Psychoth. Praxis
+* PureVPN
+* querstart - Kompetenzmanagement und Unternehmensberatung
 * R3D: Red en Defensa de los Derechos Digitales
+* Rechts- und Steuerkanzlei Eller
 * Recrout
-* ReinerGmbH
+* Reich Elektronik
+* Reiner GmbH
+* RKN²
+* Rommel Beratung
+* Schiehallion's at FleaYard
+* schiller umweltgeologie & geotechnik
+* Seher-Design
 * SENTENTIA EX DATA LTD
 * Servicebüro Verdugo
 * ShortCutstv Ltd
+* siduction - the community OS
+* sitec systems GmbH
 * Sorware partnership
 * soundscool.ch
 * Spitalzentrum Oberwallis
 * Squap.de
+* SSG Bensheim
 * StartMail.com
+* StartPage
 * StartPage.com
 * Startup Studio Nescio
 * Startup Weekend Utrecht
 * StartupInc
-* STUCKI LAW Advokatur
+* Steinbeis-TIB
+* Stucki Law Advokatur
+* studierendenWERK Berlin
 * TalkJS
+* TAMACOM TheMindCompany
 * Tanzufer
 * Tapfiliate
 * Tauchsport Rudolf Krois
+* TEAL GROUP
 * TEQ Property Management ltd
 * TGS bv
 * The Next Speaker
 * The Rubens Group
 * The Things Network
 * TNW
+* TraumBIZ GmbH
+* TU Dortmund
 * Unimos.net
+* Unternehmensberatung PDOetjen
 * Van Rijsoort-Buigwerk
+* Vaquero Tack
 * VPNAnalysis.com
+* WALD+CORBE
 * Walendy
 * web-eau.net
+* WeCure
 * Werbe- und Kommunikationsgrafik
 * Wildcard
 * Wildcard Works
 * WirelessPT.net
+* WNDR Productions
 * Wochinger Metallbau
+* Wordienste
 * Wupatki
 * WWL e.V.
+* Xitec Technologies GmbH
 * Xnet
 * Yanomo.com
 * Zaala AG
 * ZEF
+* Zimmer Export UG (haftungsbeschränkt)
 
 <div id="more">
 See over 100 more
