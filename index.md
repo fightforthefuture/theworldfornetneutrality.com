@@ -34,7 +34,7 @@ layout: default
 * ![PrivacyTools.IO](images/logos/privacytools.gif)
 * ![StartMail](images/logos/startmail.png)
 * ![StartupsForNetNeutrality](images/logos/startupsfornn.png)
-* ![The Next Web](images/logos/TNW.jpg)
+* ![The Next Web](images/logos/tnw2.png)
 * ![XNET](images/logos/Xnet.png)
 {: #anchor-businesses }
 
