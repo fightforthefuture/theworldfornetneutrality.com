@@ -557,7 +557,7 @@ See over 200 more
 
 ## Read the Letter
 {: #letter }
-[Download the PDF](/international-orgs-NN-openletter.pdf)
+[Download the PDF](/international-orgs-NN-openletter-final.pdf)
 
 <div class="letter-content">
 
