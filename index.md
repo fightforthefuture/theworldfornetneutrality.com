@@ -182,9 +182,7 @@ See over 100 more
 
 <div class="section letter">
 
-## The Letter
-{: #letter }
-
+## Sign the Letter
 {: #signon}
 
 {::options parse_block_html="false" /}
@@ -485,6 +483,9 @@ See over 100 more
 </form>
 </div>
 {::options parse_block_html="true" /}
+
+## Read the Letter
+{: #letter }
 
 
 <div class="letter-content">
