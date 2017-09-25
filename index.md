@@ -19,92 +19,160 @@ layout: default
 
 ---
 
-<div class="section businesses hide">
+<div class="section businesses">
 
 ## Businesses
 {: #businesses }
 
-* ![American Sustainable Business Council](images/logos/asbc_logo.png)
-* ![Small Business Advocacy Council](images/logos/sbac.png)
-* ![Main Street Alliance](images/logos/msa_logo.png)
-* ![Small Business Majority](images/logos/sbm.svg)
+* ![StartPage](images/logos/startpage.png)
+* ![AccessNow](images/logos/accessnow.jpg)
+* ![EDRi](images/logos/edri.png)
+* ![StartupsForNetNeutrality](images/logos/startupsfornn.png)
 {: #anchor-businesses }
 
 <div id="businesses-list">
 
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
-* Business
+* 4Choice.com
+* AccessNow
+* ad'lead
+* Aiden
+* AIL Group
+* ajhenke
+* AKM
+* Albold Consulting GmbH
+* Alpen Adria University Klagenfurt
+* Ambulantes OP-Zentrum Regensburg
+* APA System and Vision GmbH
+* Aqua Slug Services Inc.
+* Aranica AS
+* Architektur
+* Arnold Holste Wwe. GmbH & Co. KG
+* Arnulf Krandick
+* ARTICLE 19
+* AS Wasserkabel Baltic
+* Atelier
+* Atelier für Kunst und Lebenskunst
+* Awkward
+* B&N Software GmbH
+* Bavaria Pensionsmanagement GmbH
+* BDP Hamburg
+* Berner Fachhochschule, E-Government-Institut
+* BestVPN.com
+* bewowuppertal
+* Bhend Oehrli
+* Bits of Freedom
+* BLEevents
+* BO Wbg
+* Bold and Open
+* Bond Ltd.
+* Borna Arbeits- und Wohngemeinschaft
+* BottledBits
+* BQD consult
+* Bradley
+* brückenärzte.de
+* Büro DIE ANTWORT GmbH
+* Cadservice
+* Carr Technologies LTD
+* Chart Synergy
+* ComputerDix - wissen statt glauben
+* crixa
+* Cybera
+* d-plan Stadtentwicklung GmbH
+* Daiichi Sankyo Deutschland GmbH
+* Digitalcourage
+* Dipl. Ing.(FH) D. Friedrich Ingenieurdienstleistungen
+* diyteam Dienstleistungen
+* down-up! gGmbH
+* Druck Kern
+* Eberhard Engel Immobilien
+* Eilers-Jacobs Photovoltaik
+* Erikcrighton.com
+* European Digital Rights (EDRi)
+* Evoi Verlag
+* FabicoVideo
+* Fairness-Stiftung
+* Ferma Suisse
+* FictionIndustries BVBA
+* FSF, Linux Foundation
+* Galerie Pfundt
+* Goldschmiede Kuhlemann-von der Twer
+* Goose Management
+* grrrndzero
+* GTC Geo + Technical Consulting
+* Hans-Heinrich Hain GmbH
+* Hautpraxis am Seepark
+* Herbartgymnasium
+* HiVE Vancouver Society
+* INN.LAW – Innovative Lawyers
+* Iristel Inc.
+* IT-Consultant
+* Kitchy Consulting
+* Kommunikationsberatung
+* LivaNova
+* Maderner Consulting Solutions
+* Madx
+* Make IT Shine SPRL
+* Manfred Linzner
+* Mausbrand GmbH
+* Mensch & Computer
+* MG Productions
+* Midvinter Holzhandwerk
+* mousesports
+* NatrelAcoustix
+* naturefund
+* NoteFly
+* OpenMedia
+* Ordination Dr.Wiebecke
+* Padaria Maria Olimpia (http://mariaolimpia.pt)
+* Panhuyzen Guitars
+* privacytools.io
+* Project Privacy
+* PSYCHEXODUS
+* R3D: Red en Defensa de los Derechos Digitales
+* Recrout
+* ReinerGmbH
+* SENTENTIA EX DATA LTD
+* Servicebüro Verdugo
+* ShortCutstv Ltd
+* Sorware partnership
+* soundscool.ch
+* Spitalzentrum Oberwallis
+* Squap.de
+* StartMail.com
+* StartPage.com
+* Startup Studio Nescio
+* Startup Weekend Utrecht
+* StartupInc
+* STUCKI LAW Advokatur
+* TalkJS
+* Tanzufer
+* Tapfiliate
+* Tauchsport Rudolf Krois
+* TEQ Property Management ltd
+* TGS bv
+* The Next Speaker
+* The Rubens Group
+* The Things Network
+* TNW
+* Unimos.net
+* Van Rijsoort-Buigwerk
+* VPNAnalysis.com
+* Walendy
+* web-eau.net
+* Werbe- und Kommunikationsgrafik
+* Wildcard
+* Wildcard Works
+* WirelessPT.net
+* Wochinger Metallbau
+* Wupatki
+* WWL e.V.
+* Xnet
+* Yanomo.com
+* Zaala AG
+* ZEF
 
 <div id="more">
-See over 150 more
+See over 100 more
 </div>
 
 </div>
