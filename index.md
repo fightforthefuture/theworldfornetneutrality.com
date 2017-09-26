@@ -109,7 +109,6 @@ layout: default
 * Fairness-Stiftung
 * Ferma Suisse
 * FictionIndustries BVBA
-* Freelancer
 * FSF, Linux Foundation
 * G M Watts Productions
 * Galerie Pfundt
@@ -128,7 +127,6 @@ layout: default
 * Initiative jüdische Spuren in Sulzburg
 * INN.LAW – Innovative Lawyers
 * Iristel Inc.
-* IT-Consultant
 * It-Servicecycle
 * ITS Digital Solutions GmbH
 * Ixquick.com
