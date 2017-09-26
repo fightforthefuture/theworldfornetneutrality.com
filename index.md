@@ -32,7 +32,7 @@ layout: default
 * <a target ="_blank" href="http://www.iristel.com/">![Iristel](/images/logos/iristel.png)</a>
 * <a target ="_blank" href="https://openmedia.org/">![OpenMedia](images/logos/openmedia.jpg)</a>
 * <a target ="_blank" href="https://www.privacytools.io/">![PrivacyTools.IO](images/logos/privacytools.gif)</a>
-* <a target ="_blank" href="https://www.startmail.com/en/">![StartMail](images/logos/startmail.png)</a>
+* <a target ="_blank" href="https://rsf.org/en/">![Reporters Without Borders](images/logos/reporters.png)</a>
 * <a target ="_blank" href="http://www.startupsfornetneutrality.eu/">![StartupsForNetNeutrality](images/logos/startupsfornn.png)</a>
 * <a target ="_blank" href="https://thenextweb.com/">![The Next Web](images/logos/tnw2.png)</a>
 * <a target ="_blank" href="https://xnet-x.net/en/">![XNET](images/logos/Xnet.png)</a>
