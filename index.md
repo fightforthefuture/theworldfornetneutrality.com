@@ -29,7 +29,7 @@ layout: default
 * <a target ="_blank" href="https://www.article19.org/">![Article19](images/logos/article19.jpg)</a>
 * <a target ="_blank" href="https://www.bof.nl/">![BitsOfFreedom](images/logos/bitsoffreedom.png)</a>
 * <a target ="_blank" href="https://edri.org/">![EDRi](images/logos/edri2.png)</a>
-* <a target ="_blank" href="http://www.iristel.com/">![Iristel](/images/logos/iristel.png)</a>
+* <a target ="_blank" href="https://epicenter.works/">![Epicenter.works](/images/logos/epicenter.jpg)</a>
 * <a target ="_blank" href="https://openmedia.org/">![OpenMedia](images/logos/openmedia.jpg)</a>
 * <a target ="_blank" href="https://www.privacytools.io/">![PrivacyTools.IO](images/logos/privacytools.gif)</a>
 * <a target ="_blank" href="https://rsf.org/en/">![Reporters Without Borders](images/logos/reporters.png)</a>
