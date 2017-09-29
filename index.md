@@ -40,12 +40,18 @@ layout: default
 
 <div id="businesses-list">
 
+* StartPage.com
+* AccessNow
+* European Digital Rights (EDRi)
+* StartupsForNetNeutrality.eu
 * 4Choice.com
 * ad'lead
+* Adlo Sicherheitstechnik VertriebsGmbH / Dampfwolke
 * Aiden
 * AIL Group
 * ajhenke.com
 * AKM
+* AKOPLAN - Institut für soziale u. ökologische Planung e.V.
 * Albold Consulting GmbH
 * Alpen Adria University Klagenfurt
 * Ambulantes OP-Zentrum Regensburg
@@ -57,16 +63,21 @@ layout: default
 * Arnulf Krandick
 * ARTICLE 19
 * AS Wasserkabel Baltic
+* ASCAmed
 * Atelier
 * Atelier für Kunst und Lebenskunst
+* AuS-zeit
 * Awkward
+* az-technics
 * B&N Software GmbH
+* bauArt Hamburg GmbH
 * Bavaria Pensionsmanagement GmbH
 * bbp-consulting
 * BDP Hamburg
 * Berner Fachhochschule, E-Government-Institut
 * BestVPN.com
-* bewowuppertal
+* Betreutes Wohnen Wuppertal e.V.
+* Beyond Devices d.o.o.
 * Bhend Oehrli
 * Bits of Freedom
 * BLEevents
@@ -77,14 +88,16 @@ layout: default
 * BottledBits
 * BQD consult
 * Bradley
-* brückenärzte.de
+* Brückenärzte.de
 * Büro Die Antwort GmbH
 * Cadservice
 * Carr Technologies LTD
 * Chart Synergy
+* CinExMachina
 * ComputerDix - wissen statt glauben
 * Crelling
 * Crixa
+* CSJ Services
 * Cybera
 * d-plan Stadtentwicklung GmbH
 * Daiichi Sankyo Deutschland GmbH
@@ -96,22 +109,26 @@ layout: default
 * Druck Kern
 * Duke Entertainment
 * Durotan Ltd.
-* Dvärgbjörken ekonomisk föreningYes
+* Dvärgbjörken ekonomisk förening
 * Easyfix Electrical
 * Eberhard Engel Immobilien
 * Eilers-Jacobs Photovoltaik
 * Element Comm. V.
-* Epicenter.works
 * Erikcrighton.com
-* European Digital Rights (EDRi)
 * Evoi Verlag
 * FabicoVideo
 * Fairness-Stiftung
+* Fast Moving Targets
 * Ferma Suisse
 * FictionIndustries BVBA
+* Fineline Möbeldesign
+* Florapark
+* Florian Staehr IT Consultant
+* Focus Publishing UG
 * FSF, Linux Foundation
 * G M Watts Productions
 * Galerie Pfundt
+* Gantzel Coaching
 * Geopolitics & Empire
 * Goldschmiede Kuhlemann-von der Twer
 * Goose Management
@@ -120,12 +137,16 @@ layout: default
 * Hans van Wijngaarden Consultancy
 * Hans-Heinrich Hain GmbH
 * Hautpraxis am Seepark
+* HeldCOM
 * Herbartgymnasium
 * HiVE Vancouver Society
 * Hochschule RheinMain
+* IGL GmbH
+* IMMOSPACE
 * Imycon
-* Initiative jüdische Spuren in Sulzburg
+* Initiative Jüdische Spuren in Sulzburg
 * INN.LAW – Innovative Lawyers
+* Irish Pub Finnegan's
 * Iristel Inc.
 * It-Servicecycle
 * ITS Digital Solutions GmbH
@@ -133,8 +154,10 @@ layout: default
 * Jackdaw BV
 * Karma Kagyu Community Germany, reg.
 * Kitchy Consulting
+* KLANG-CENTRUM
 * Klaus-Peter Heine Immobilienverwaltung GmbH
 * Klinikum Stephansplatz, Hamburg
+* Koenig
 * Kolpingsfamilie Arnsberg
 * Kommunikationsberatung
 * kusntverein region dahlenburg
@@ -143,6 +166,7 @@ layout: default
 * labilstabil
 * LivaNova
 * lumpaci
+* m. schneider a.hillebrandt architektur
 * Maderner Consulting Solutions
 * Madx
 * Make IT Shine SPRL
@@ -156,12 +180,15 @@ layout: default
 * Moss Technology
 * mousesports
 * NatrelAcoustix
-* naturefund
+* Naturefund
+* NaturFreunde LV Baden e.V.
 * Naturheilpraxis Manfred Kremer
 * Nelson-Mandela- Schule Bochum
 * Nightingale-EOS Limited
 * NoteFly
 * NWP GmbH
+* OEKOGENO eG, Aufsichtsrat
+* OGGISOFT
 * OGV Breitenbrunn
 * OMC GmbH
 * One Nine One Ltd.
@@ -183,6 +210,7 @@ layout: default
 * querstart - Kompetenzmanagement und Unternehmensberatung
 * R3D: Red en Defensa de los Derechos Digitales
 * Rechts- und Steuerkanzlei Eller
+* Rechtsanwalt (lawyer according to German law)
 * Recrout
 * Reich Elektronik
 * Reiner GmbH
@@ -196,14 +224,13 @@ layout: default
 * ShortCutstv Ltd
 * siduction - the community OS
 * sitec systems GmbH
+* SnappCar
 * Sorware partnership
 * soundscool.ch
 * Spitalzentrum Oberwallis
 * Squap.de
 * SSG Bensheim
 * StartMail.com
-* StartPage
-* StartPage.com
 * Startup Studio Nescio
 * Startup Weekend Utrecht
 * StartupInc
@@ -228,12 +255,15 @@ layout: default
 * Unternehmensberatung PDOetjen
 * Van Rijsoort-Buigwerk
 * Vaquero Tack
+* Voys
 * VPNAnalysis.com
 * WALD+CORBE
 * Walendy
+* Watchman Research Media Publications
 * web-eau.net
 * WeCure
 * Werbe- und Kommunikationsgrafik
+* White Rabbit
 * Wildcard
 * Wildcard Works
 * WirelessPT.net
@@ -242,6 +272,7 @@ layout: default
 * Wordienste
 * Wupatki
 * WWL e.V.
+* Wycliffe
 * Xitec Technologies GmbH
 * Xnet
 * Yanomo.com
